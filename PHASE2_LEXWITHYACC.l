@@ -30,7 +30,7 @@ RELOP ==|\!=|>|<|>=|<=
 LOGOP &&|\|\||!
 SYMBOL ,|;|\'|\"|\{|\}|\[|\]|\(|\)
 PRINTF printf\(\".*\"\)
-SCANF scanf\(\".*\"\)
+SCANF scanf\(\".*\",&.*\)
 MULTI_LINE_COMMENT \/\*({LETTER}|{ARITHOP2}|{ARITHOP1}|{ASSIGN}|{BITOP}|{PRINTF}|{SCANF}|{UNARYOP}|{RELOP}|{LOGOP}|{DIGIT}|{SYMBOL}|{escape}|{SINGLE_LINE_COMMENT}|(\/\*))*\*\/
 
 %%
@@ -294,3 +294,4 @@ if(scan==285 && mlc==0)
 } 
 
 */
+
