@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+typedef struct pop{
+int a;
+}pop;
+typedef struct pop1{
+int a;
+}abc;
+
+int main()
+{
+int a=10;
+int a=19;
+printf("igcn");//valid
+//printf("igcn") invalid missing ;
+scanf("%d",&a);
+printf("hellooo");
+return 1;
+}
