@@ -1,0 +1,39 @@
+#include<stdio.h>
+struct foo{
+int a;
+char b;
+};
+struct foo2{
+int a;
+char b;
+};
+typedef struct pop{
+int a;
+}abc;
+struct foo3{
+int a;
+char b;
+};
+typedef struct abc{
+int a;
+}abc;
+int main()
+{
+//int a=1+2;
+float b=2;
+while(b==2)
+{
+	b=b+1;
+}
+while(b==2&&b<2||b==1)
+{
+	b=b+1;
+}
+while(b==2&&b<2)
+{
+	b=b+1;
+}
+/*hedvnjhv 
+uygfcvbjlm a=10 a*2 a/5 
+return 0;*/
+}
