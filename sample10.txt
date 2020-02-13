@@ -1,0 +1,72 @@
+#include<stdio.h>
+
+typedef struct pop{
+int a;
+}pop;
+typedef struct pop1{
+int a;
+}abc;
+
+int main()
+{
+int a=10;
+int a=19;
+//type 1
+switch(a)
+{
+case 10: printf("hi");
+         a=a+1;
+         break;
+case 19:scanf("Enter details %s",&c);
+        break;
+}
+//type 2
+switch(a)
+{
+case 10: printf("hi");
+         a=a+1;
+case 19:scanf("Enter details %s",&c);
+        a+=10;
+}
+//type 3
+switch(a)
+{
+case 10: printf("hi");
+         a=a+1;
+case 19:scanf("Enter details %s",&c);
+default:a=1;
+}
+//type 4
+switch(a)
+{
+case 10: printf("hi");
+         a=a+1;
+break;
+case 19:scanf("Enter details %s",&c);
+int k=a+1;
+break;
+default:a=1;
+break;
+}
+struct dfg e;
+e.b=10;
+int a.d=10;
+int g[10].m.l[2];
+a=4;
+while(a<6)
+{
+ a=a+1;
+}
+a=a+10;
+switch(a)
+{
+case 4:a=a+6;
+a=9;
+a+=19;
+break;
+case 7:a=10;
+break;
+}
+return 1;//will be invalid due to many returns
+return 0;
+}
