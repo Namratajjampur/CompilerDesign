@@ -9,7 +9,7 @@ void main()
 {
 struct dfg e;
 e.b=10;
-int g[10].m.l[2];
+//int g[10].m.l[2];
 a=4;
 while(a<6)
 {
