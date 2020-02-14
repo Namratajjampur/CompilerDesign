@@ -163,12 +163,7 @@ valid=0;
 			scan = yylex();
 			continue;
 		}
-		if(lineno!=dqline && dqline!=0)
-		{
-			if(dq%2!=0)
-				printf("\n******** ERROR!! INCOMPLETE STRING at Line %d ********\n\n", dqline);
-			dq=0;
-		}
+		
 		if((scan>=262 && scan<=273) && mlc==0)
 		{
 			printf("%s\t\t\tKEYWORD\t\t\t\tLine %d\n", yytext, lineno);
@@ -258,12 +253,12 @@ if(scan==285 && mlc==0)
 		}
 		scan = yylex();
 	}
-	if(mlc==1)
-		printf("\n******** ERROR!! UNMATCHED COMMENT STARTING at Line %d ********\n\n",mlcline);
+	/*if(mlc==1)
+		printf("\nEUNMATCHED COMMENT at Line %d\n\n",mlcline);*/
 	printf("\n");
-	printf("\n\t******** SYMBOL TABLE ********\t\t\n");
+	printf("\n\tSYMBOL TABLE\t\t\n");
 	display();
-        printf("-------------------------------------------------------------------\n\n");
+        
 if(valid==1){
     printf("Valid\n");
 	}
