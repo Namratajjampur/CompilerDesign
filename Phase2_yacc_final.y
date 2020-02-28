@@ -3,7 +3,7 @@
     #include<string.h>
     #include"lex.yy.c"
 int valid=1;
-    
+  extern int lineno;
 %}
 
 %token PREPROC STRING CHARACTER MAIN INT STRUCT BREAK SWITCH CASE TYPEDEF CHAR RETURN VOID WHILE DEFAULT FLOAT BOOL NUM NUMBER ID RELOP LOGOP UNARYOP ASSIGN ARITHOP1 ARITHOP2 PRINTF SCANF
@@ -46,17 +46,18 @@ MULTI: '['NUM']'MULTI
 DATATYPE : INT
 |FLOAT
 |CHAR
-|STRUCT ID 
+|STRUCT ID  
 ;
 STATEMENT: BREAK';'STATEMENT
 |RETURN NUM';'
-|DECLARATION ';'STATEMENT
+|DECLARATION ';'STATEMENT 
 |ASSIGNMENT';'STATEMENT
 |WHILE_STAT STATEMENT
 |SWITCH_STAT STATEMENT
 |PRINTF';' STATEMENT
 |SCANF';' STATEMENT
 |
+|DECLARATION error STATEMENT {yyerrok;fprintf(stderr,"missing semicolon at line number :%d\n",lineno);}
 ;
 DECLARATION: DATATYPE DECTYPE
 ;
@@ -157,7 +158,7 @@ fclose(yyout);
 /* For printing error messages */
 int yyerror(char* s)
 {
-printf("invalid\n");
+fprintf(stderr,"%s ",s);
 valid=0;
 }
 /*int main()
