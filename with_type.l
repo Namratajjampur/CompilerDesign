@@ -35,8 +35,8 @@ MULTI_LINE_COMMENT \/\*({LETTER}|{ARITHOP2}|{ARITHOP1}|{ASSIGN}|{BITOP}|{PRINTF}
 %%
 {MULTI_LINE_COMMENT}    {;}
 {SINGLE_LINE_COMMENT}   {;}
-{PRINTF} {fprintf(yyout,"preproc %s\n",yytext);return PRINTF;}
-{SCANF} {return SCANF;}
+{PRINTF} {fprintf(yyout,"PRINTF %s\n",yytext);return PRINTF;}
+{SCANF} {fprintf(yyout,"SCANF %s\n",yytext);return SCANF;}
 #include<stdio.h> {fprintf(yyout,"preproc %s\n",yytext); return PREPROC;}
 main {fprintf(yyout,"main %s\n",yytext);return MAIN;}
 int {fprintf(yyout,"int  %s\n",yytext);strcpy(type,"INT");return INT;}
