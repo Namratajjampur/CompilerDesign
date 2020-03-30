@@ -716,7 +716,7 @@ void write_to_file()
 		int length = symbol_table_stack[top_stack_for_symbol_tables].index_to_insert;
 		for(i=0;i<length;i++)
 		{
-			fprintf(fptr,"TYPE : %5s\t\tNAME : %5s\t\tVALUE : %5s\t\t SCOPE: %5d\n",symbol_table_stack[top_stack_for_symbol_tables].symbol_table[i].type,symbol_table_stack[top_stack_for_symbol_tables].symbol_table[i].name,symbol_table_stack[top_stack_for_symbol_tables].symbol_table[i].value,scope);
+			fprintf(fptr,"TYPE : %5s\t\tNAME : %5s\t\tVALUE : %5s\t\t SCOPE: %5d\n",symbol_table_stack[top_stack_for_symbol_tables].symbol_table[i].type,symbol_table_stack[top_stack_for_symbol_tables].symbol_table[i].name,symbol_table_stack[top_stack_for_symbol_tables].symbol_table[i].value,top_stack_for_symbol_tables);
 		}
 	}
 	fprintf(fptr,"\n");
