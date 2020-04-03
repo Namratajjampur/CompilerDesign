@@ -1,0 +1,18 @@
+1)Creation of Symbol Table (with required fields for line no, scope, value, type, storage required)- storage, line number , array 
+2)Validity of Syntax-done
+3)Evaluation of Expressions and update in symbol table- nested structures and local structures in main left
+4)Error Handling- have to print error( missing ;,{ , variable not declared(not in sysmbol table), maybe spelling for while and switch case)
+5)Abstract Syntax tree generation- branch for more than two children, structures
+6)Intermediate code generation- fulll
+
+3/4/2020-
+1)
+5) structures of AST 
+
+4/4/2020 
+5) full
+Basic ICG 6)
+
+5/4/2020
+Full 6) 
+Whatever left
