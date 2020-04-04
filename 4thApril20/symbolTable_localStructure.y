@@ -447,8 +447,11 @@ declaration
 								}
 	| type_specifier init_declarator_list ';'	{	 printf("FIND ITTTT TOGTHER: %s %s",$1,$2);
 																		printf("152\n");
-																		char *temp_token;																	/* display struct member in cuurent scope only if $1 = "struct" */
+																		char *temp_token;
+                                                                        int flag_temp=1;
+                                                                        char *substring;																	/* display struct member in cuurent scope only if $1 = "struct" */
 														char * token = strtok_r($2, "#",&temp_token);
+                                                        char *temp_struct;
                                                         while( token != NULL ) 
                                                         {	
       													
@@ -510,13 +513,22 @@ declaration
 														not_defined = 0;
 													}
                                                     //local init of structures
-                                                    else if(index($1,'+') != NULL)
+                                                    else if(index($1,'+') != NULL || flag_temp==0)
                                                     {
+                                                        if(index($1,'+') == NULL)
+                                                        {
+                                                            printf("ABCDSUBSTRINGGGGGG: %s\n",substring );
+                                                            add_struct_member_in_symbol_table(token,substring,1);
+                                                        }
+                                                        else{
                                                         char *temp_substring;																	/* display struct member in cuurent scope only if $1 = "struct" */
-														char *substring = strtok_r($1, "+",&temp_substring);
+														substring = strtok_r($1, "+",&temp_substring);
                                                         substring = strtok_r(NULL, "+",&temp_substring);
                                                         printf("SUBSTRINGGGGGG: %s\n",substring );
                                                         add_struct_member_in_symbol_table(token,substring,1);
+                                                        flag_temp=0;
+                                                        }
+                                                        
                                                     }
 													else if(!strcmp($1,"struct"))
 													{
