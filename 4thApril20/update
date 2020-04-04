@@ -16,3 +16,9 @@ Basic ICG 6)
 5/4/2020
 Full 6) 
 Whatever left
+
+
+FOR AST:
+Disable stack smash in VM gcc
+gcc -Wall -fno-stack-protector -g y.tab.c lex.yy.c graph.c -ll -o AST
+./AST<allcase.c
