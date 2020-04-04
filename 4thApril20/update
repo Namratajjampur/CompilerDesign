@@ -1,6 +1,6 @@
 1)Creation of Symbol Table - left for array within structures only
 2)Validity of Syntax-done
-3)Evaluation of Expressions and update in symbol table- nested structures and local structures in main left
+3)Evaluation of Expressions and update in symbol table- nested structures left
 4)Error Handling- have to print error( missing ;,{ , variable not declared(not in sysmbol table), maybe spelling for while and switch case)
 5)Abstract Syntax tree generation- branch for more than two children, structures
 6)Intermediate code generation- fulll
