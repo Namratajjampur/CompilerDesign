@@ -236,13 +236,13 @@ expression_statement
 	| expression ';'
 	;
 while_statement
-:WHILE '('{fprintf(outfile, "L%d :", ++label);} expression {fprintf(outfile, "ifFalse %s goto L%d\ngoto L%d\nL%d : \n", pop(), label+3, label+1, label+2);
+:WHILE '('{fprintf(outfile, " L%d :", ++label);} expression {fprintf(outfile, "ifFalse %s  goto L%d\ngoto L%d \n", pop(), label+2, label+1);
+//label_push(label+2); 
+label_push(label);
 label_push(label+2); 
-label_push(label+3); 
-label_push(label+1); 
-label_push(label);}
-{fprintf(outfile, "goto %s\n", label_pop()); label += 3;}
-  ')' '{' {fprintf(outfile, "%s :\n", label_pop());} block_item_list{fprintf(outfile, "goto %s\n%s : \n", label_pop(), label_pop());} '}'
+label_push(label+1);} 
+{/*fprintf(outfile, " goto %s\n",label_pop()); */ label += 2;}
+  ')' '{' {fprintf(outfile, " %s :\n",label_pop());} block_item_list{fprintf(outfile, " goto %s\n%s : \n",label_pop(), label_pop());}  '}'
 	;
 
 translation_unit
@@ -335,10 +335,13 @@ void gen_false_code()
 }
 void label_push(int label)
 {
+	
 	char temp[5];
+	//fprintf(outfile,"LABEL BEFORE PUSH : %s  %d \n",label_stack.items[label_stack.top],label_stack.top);
 	sprintf(temp, "L%d", label);
 	label_stack.items[++label_stack.top] = malloc(LIMIT);
 	strcpy(label_stack.items[label_stack.top], temp);
+	//fprintf(outfile,"LABEL AFTER PUSH : %s  %d \n",label_stack.items[label_stack.top],label_stack.top);
 	
 }
 char *label_pop()
@@ -347,8 +350,10 @@ char *label_pop()
 		printf("\nError in evaluating expression\n");
 		exit(0);
 	}
+	//fprintf(outfile,"LABEL BEFORE POP : %s  %d \n",label_stack.items[label_stack.top],label_stack.top);
 	char *str = (char*)malloc(LIMIT);
 	strcpy(str, label_stack.items[label_stack.top--]);
 	free(label_stack.items[label_stack.top+1]);
+	//fprintf(outfile,"LABEL AFTER POP : %s  %d \n",label_stack.items[label_stack.top],label_stack.top);
 	return str;
 }
