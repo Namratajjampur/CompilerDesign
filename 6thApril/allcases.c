@@ -4,6 +4,10 @@
 int main()
 {	
 	struct_id.mem=1+2;
+	struct_id.mem=1+2;
+	struct struct_id b;
+	b.member=12+2; 
+int a=1+2;
 	/*switch(a)
 	{
 	case 4: a++;
