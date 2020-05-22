@@ -36,3 +36,7 @@ Following code optimizations were performed
 
 5. Target code Generation
 Using Linaer Scan register allocation algorithm
+
+C Diya  PES1201700246
+Namrata R PES1201700921
+Chiranth J PES1201701438
