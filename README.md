@@ -34,3 +34,5 @@ Following code optimizations were performed
 - Dead code elimination
 - Constant folding
 
+5. Target code Generation
+Using Linaer Scan register allocation algorithm
