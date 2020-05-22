@@ -28,7 +28,6 @@ The errors handled by the symbol table are
 Uses ```graph.c``` and ```header.h``` to display the abstract syntax tree.
 
 3. Intermediate Code Generation : ```./ICG < filename``` <br>
-Generates an ```if-goto``` form of intermediate representation of code in ```output_file.txt```. Handles nested for loops, nested ternary operators too.
 
 4. Code Optimization : ```python3 CO.py``` or ``` python3 CO.py filename``` <br>
 Following code optimizations were performed
