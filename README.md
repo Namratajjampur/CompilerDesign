@@ -29,13 +29,30 @@ Uses ```graph.c``` and ```header.h``` to display the abstract syntax tree.
 
 3. Intermediate Code Generation : ```./ICG < filename``` <br>
 
-4. Code Optimization : ```python3 CO.py``` or ``` python3 CO.py filename``` <br>
+4. Code Optimization : 
 Following code optimizations were performed
 - Dead code elimination
 - Constant folding
 
 5. Target code Generation
 Using Linaer Scan register allocation algorithm
+
+## Files and Folders in the Repository
+commands: detailed steps to run each phase</br>
+SymbolTable.l : symbol table creation lex file</br>
+SymbolTable.y : symbol table creation yacc file</br>
+SymbolTable.txt: sample symbol table created for an input
+AST.l : Lex file for abstarct syntax tree generation</br>
+AST.y: yacc file for abstarct syntax tree generation</br>
+graph.c: code to format the abstarct syntax tree generation</br>
+header.h: header file that contains data structures used for creation of nodes</br>
+ICG.l : Lex file for Intermediate code generation</br>
+ICG.y : yacc file for Intermediate code generation</br>
+opti1.c and opti2.c: code optimzations
+targetcode.py: target code genration code 
+all_cases_final.c: sample input for all inputs
+error.txt: errors encountered in a program
+
 
 C Diya  PES1201700246<br>
 Namrata R PES1201700921<br>
