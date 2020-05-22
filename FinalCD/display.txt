@@ -1,0 +1,3640 @@
+scope/top of stack loop i 0
+
+Index :7
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : KEYWORD	NAME : char	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : KEYWORD	NAME : int	VALUE : 
+symbol table for each scope symbol j  2
+TYPE : KEYWORD	NAME : float	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : KEYWORD	NAME : void	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : KEYWORD	NAME : main	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : KEYWORD	NAME : while	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : KEYWORD	NAME : struct	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 1
+
+Index :12
+struct Index :2
+symbol table for each scope symbol j  0
+TYPE : array(10,array(2,float))	NAME : global_struct_outer1.mem_arr	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : float	NAME : global_struct_outer1.mem_flt	VALUE : 100.12
+symbol table for each scope symbol j  2
+TYPE : int	NAME : global_struct_outer1.mem_int	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : array(10,array(2,float))	NAME : global_struct_outer2.mem_arr	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : float	NAME : global_struct_outer2.mem_flt	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : int	NAME : global_struct_outer2.mem_int	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : array(10,struct)	NAME : inner_arr	VALUE :  
+symbol table for each scope symbol j  7
+TYPE : int	NAME : in_struct.inner_mem	VALUE : 38.000000
+symbol table for each scope symbol j  8
+TYPE : array(10,array(2,float))	NAME : in_struct.nested_struct.mem_arr	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : float	NAME : in_struct.nested_struct.mem_flt	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : int	NAME : in_struct.nested_struct.mem_int	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : float	NAME : global_var	VALUE : 30
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: outer
+ index to insert member: 3 struct table for each scope member h 0
+struct table for each scope member name  mem_arr
+struct table for each scope member type  array(10,array(2,float))
+struct table for each scope member h 1
+struct table for each scope member name  mem_flt
+struct table for each scope member type  float
+struct table for each scope member h 2
+struct table for each scope member name  mem_int
+struct table for each scope member type  int
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: inner
+ index to insert member: 4 struct table for each scope member h 0
+struct table for each scope member name  inner_mem
+struct table for each scope member type  int
+struct table for each scope member h 1
+struct table for each scope member name  nested_struct.mem_arr
+struct table for each scope member type  array(10,array(2,float))
+struct table for each scope member h 2
+struct table for each scope member name  nested_struct.mem_flt
+struct table for each scope member type  float
+struct table for each scope member h 3
+struct table for each scope member name  nested_struct.mem_int
+struct table for each scope member type  int
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 2
+
+Index :0
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : int	NAME : b	VALUE : 6.000000
+symbol table for each scope symbol j  1
+TYPE : array(1,array(2,array(3,int)))	NAME : a	VALUE :  
+symbol table for each scope symbol j  2
+TYPE : int	NAME : c	VALUE : 2.000000
+symbol table for each scope symbol j  3
+TYPE : int	NAME : d	VALUE : 19.000000
+symbol table for each scope symbol j  4
+TYPE : int	NAME : local_decl.inner_mem	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : array(10,array(2,float))	NAME : local_decl.nested_struct.mem_arr	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : float	NAME : local_decl.nested_struct.mem_flt	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : int	NAME : local_decl.nested_struct.mem_int	VALUE : 2.000000
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 3
+
+Index :0
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  2
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 4
+
+Index :0
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  2
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 5
+
+Index :0
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  2
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 6
+
+Index :0
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  2
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 7
+
+Index :0
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  2
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 8
+
+Index :0
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  2
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+scope/top of stack loop i 9
+
+Index :0
+struct Index :0
+symbol table for each scope symbol j  0
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  1
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  2
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  3
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  4
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  5
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  6
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  7
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  8
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  9
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  10
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  11
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  12
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  13
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  14
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  15
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  16
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  17
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  18
+TYPE : 	NAME : 	VALUE : 
+symbol table for each scope symbol j  19
+TYPE : 	NAME : 	VALUE : 
+struct table for each scope struct   k 0
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 1
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 2
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 3
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 4
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 5
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 6
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 7
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 8
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope struct   k 9
+NAME: 
+ index to insert member: 0 struct table for each scope member h 0
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 1
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 2
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 3
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 4
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 5
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 6
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 7
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 8
+struct table for each scope member name  
+struct table for each scope member type  
+struct table for each scope member h 9
+struct table for each scope member name  
+struct table for each scope member type  

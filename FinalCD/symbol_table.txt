@@ -1,0 +1,30 @@
+TYPE : KEYWORD		 SIZE:    0		 NAME :  char		VALUE :      		 SCOPE:     0		  LINENUMBER:    0		  
+ TYPE : KEYWORD		 SIZE:    0		 NAME :   int		VALUE :      		 SCOPE:     0		  LINENUMBER:    0		  
+ TYPE : KEYWORD		 SIZE:    0		 NAME : float		VALUE :      		 SCOPE:     0		  LINENUMBER:    0		  
+ TYPE : KEYWORD		 SIZE:    0		 NAME :  void		VALUE :      		 SCOPE:     0		  LINENUMBER:    0		  
+ TYPE : KEYWORD		 SIZE:    0		 NAME :  main		VALUE :      		 SCOPE:     0		  LINENUMBER:    0		  
+ TYPE : KEYWORD		 SIZE:    0		 NAME : while		VALUE :      		 SCOPE:     0		  LINENUMBER:    0		  
+ TYPE : KEYWORD		 SIZE:    0		 NAME : struct		VALUE :      		 SCOPE:     0		  LINENUMBER:    0		  
+ 
+TYPE :   int		 SIZE:    4		 NAME :     b		VALUE : 6.000000		 SCOPE:     2		  LINENUMBER:   23		  
+ TYPE : array(1,array(2,array(3,int)))		 SIZE:   24		 NAME :     a		VALUE :      		 SCOPE:     2		  LINENUMBER:   23		  
+ TYPE :   int		 SIZE:    4		 NAME :     c		VALUE : 2.000000		 SCOPE:     2		  LINENUMBER:   23		  
+ TYPE :   int		 SIZE:    4		 NAME :     d		VALUE : 19.000000		 SCOPE:     2		  LINENUMBER:   25		  
+ TYPE :   int		 SIZE:    4		 NAME : local_decl.inner_mem		VALUE :      		 SCOPE:     2		  LINENUMBER:   26		  
+ TYPE : array(10,array(2,float))		 SIZE:   80		 NAME : local_decl.nested_struct.mem_arr		VALUE :      		 SCOPE:     2		  LINENUMBER:   26		  
+ TYPE : float		 SIZE:    4		 NAME : local_decl.nested_struct.mem_flt		VALUE :      		 SCOPE:     2		  LINENUMBER:   26		  
+ TYPE :   int		 SIZE:    4		 NAME : local_decl.nested_struct.mem_int		VALUE : 2.000000		 SCOPE:     2		  LINENUMBER:   26		  
+ 
+TYPE : array(10,array(2,float))		 SIZE:   80		 NAME : global_struct_outer1.mem_arr		VALUE :      		 SCOPE:     1		  LINENUMBER:    6		  
+ TYPE : float		 SIZE:    4		 NAME : global_struct_outer1.mem_flt		VALUE : 100.12		 SCOPE:     1		  LINENUMBER:    6		  
+ TYPE :   int		 SIZE:    4		 NAME : global_struct_outer1.mem_int		VALUE :      		 SCOPE:     1		  LINENUMBER:    7		  
+ TYPE : array(10,array(2,float))		 SIZE:   80		 NAME : global_struct_outer2.mem_arr		VALUE :      		 SCOPE:     1		  LINENUMBER:    6		  
+ TYPE : float		 SIZE:    4		 NAME : global_struct_outer2.mem_flt		VALUE :      		 SCOPE:     1		  LINENUMBER:    6		  
+ TYPE :   int		 SIZE:    4		 NAME : global_struct_outer2.mem_int		VALUE :      		 SCOPE:     1		  LINENUMBER:    7		  
+ TYPE : array(10,struct)		 SIZE:   10		 NAME : inner_arr		VALUE :      		 SCOPE:     1		  LINENUMBER:   16		  
+ TYPE :   int		 SIZE:    4		 NAME : in_struct.inner_mem		VALUE : 38.000000		 SCOPE:     1		  LINENUMBER:   13		  
+ TYPE : array(10,array(2,float))		 SIZE:   80		 NAME : in_struct.nested_struct.mem_arr		VALUE :      		 SCOPE:     1		  LINENUMBER:   14		  
+ TYPE : float		 SIZE:    4		 NAME : in_struct.nested_struct.mem_flt		VALUE :      		 SCOPE:     1		  LINENUMBER:   14		  
+ TYPE :   int		 SIZE:    4		 NAME : in_struct.nested_struct.mem_int		VALUE :      		 SCOPE:     1		  LINENUMBER:   14		  
+ TYPE : float		 SIZE:    4		 NAME : global_var		VALUE :    30		 SCOPE:     1		  LINENUMBER:   18		  
+ 
